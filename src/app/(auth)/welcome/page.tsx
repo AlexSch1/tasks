@@ -1,7 +1,5 @@
-import Welcome from "@/features/auth/welcome-screen/ui/Welcome";
+import Welcome from '@/features/auth/welcome-screen/ui/Welcome';
 
 export default function WelcomePage() {
-  return (
-      <Welcome/>
-  );
+  return <Welcome />;
 }
